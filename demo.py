@@ -1,2 +1,2 @@
 print("Welcome to my python project demo")
-print("executed successfully")
+print("executed successfully 🎉")
